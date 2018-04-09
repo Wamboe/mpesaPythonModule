@@ -1,2 +1,2 @@
 # mpesaPythonModule
-a simple mpesa lib for all apis
+a simple python lib for mpesa apis
